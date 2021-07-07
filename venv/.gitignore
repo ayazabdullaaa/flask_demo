@@ -1,13 +1,13 @@
 #vurtual environment
 venv/
 
-#flask
+#Flask
 instance/*
 !instance/.gitignore
 .webassets-cache
 
-#flask.python stack
-#byte-compiled / optimized /DLL files
+#Flask.Python Stack
+#Byte-compiled / optimized /DLL files
 __pycache__/
 *.py[cod]
 *$py.class
